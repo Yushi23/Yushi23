@@ -1,7 +1,7 @@
 
 Hi 👋 My name is Aldar
 ======================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=I'm+a+backend+developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+backend+developer;Always+learning+new+things)](https://git.io/typing-svg)
 -----------------------
 
 * 🌍  I'm based in Irkutsk
