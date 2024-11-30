@@ -7,7 +7,6 @@ Hi 👋 My name is Aldar
 * 🌍  I'm based in Irkutsk
 * 🖥️  See my portfolio at [GitHub](http://github.com/Yushi23)
 * 🧠  I'm learning Laravel framework
-* 💬 Telegram: Yushi12
 
 ### Skills
 
