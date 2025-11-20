@@ -4,9 +4,8 @@ Hi 👋 My name is Aldar
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+backend+developer;Always+learning+new+things)](https://git.io/typing-svg)
 -----------------------
 
-* 🌍  I'm based in Irkutsk
+* 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [GitHub](http://github.com/Yushi23)
-* 🧠  I'm learning Laravel framework
 
 ### Skills
 
